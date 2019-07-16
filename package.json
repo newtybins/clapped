@@ -1,0 +1,13 @@
+{
+  "name": "clapped",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jsmiith/clapped",
+  "author": "Jacob Smith",
+  "license": "MIT",
+  "keywords": [
+    "clap",
+    "text",
+    "meme"
+  ]
+}
