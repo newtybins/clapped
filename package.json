@@ -1,9 +1,9 @@
 {
   "name": "clapped",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "repository": "https://github.com/jsmiith/clapped",
-  "author": "Jacob Smith",
+  "repository": "https://github.com/newtykins/clapped",
+  "author": "newt",
   "license": "MIT",
   "keywords": [
     "clap",
